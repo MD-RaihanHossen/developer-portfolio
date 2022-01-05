@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.font{
+    text-transform: capitalize;
+}
+.new-photo{
+    width: 400px;
+    height: auto;
+    float: ;
+}
