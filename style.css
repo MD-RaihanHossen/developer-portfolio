@@ -11,7 +11,7 @@ span{
 .font{
     text-transform: capitalize;
 }
-.new-photo{
+new-photo{
     width: 400px;
     height: auto;
 }
@@ -20,10 +20,12 @@ section{
 }
 .raihan{
     width: 50%;
-    height: auto;
+    margin-left: 50px;
 }
-.image{
-    width: 50%;
-    height: auto;
-    margin-right: 30px;
+
+.new-photo{
+    width: 80%;
+    border: 1px solid red;
+    margin-left: 80px;
+    margin-top: 30px;
 }
