@@ -14,5 +14,16 @@ span{
 .new-photo{
     width: 400px;
     height: auto;
-    float: ;
+}
+section{
+    display: flex;
+}
+.raihan{
+    width: 50%;
+    height: auto;
+}
+.image{
+    width: 50%;
+    height: auto;
+    margin-right: 30px;
 }
