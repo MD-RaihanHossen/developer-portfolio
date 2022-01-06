@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Corinthia&family=Poppins&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+   
 }
 h1{
     font-size: 50px;
@@ -20,7 +23,9 @@ section{
 }
 .raihan{
     width: 50%;
-    margin-left: 50px;
+}
+.first-div{
+    margin-left: 15px;
 }
 
 .new-photo{
@@ -28,4 +33,16 @@ section{
     border: 1px solid red;
     margin-left: 80px;
     margin-top: 30px;
+}
+.first-link{
+    text-decoration: none;
+    background: linear-gradient(rgba(119, 128, 177,0.1) ,rgba(119, 128, 177,1));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: rebeccapurple;
+}   
+.first-section{
+    background: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    ;
 }
